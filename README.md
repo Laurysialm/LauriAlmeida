@@ -1,4 +1,7 @@
-#Hello everybody 👋,my name is Lauriane
+<h3 align="center">  
+  <br>
+ #Hello everybody 👋,my name is Lauriane  <br>
+</h3>                                                    
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauryalmeida/)
 
@@ -8,7 +11,7 @@
   <br>
 </h3>
 
-```
+
 Meu nome é Lauriane Almeida mas as pessoas me referem a "Lauri", tenho 27 anos 
  
 Graduanda em Análise desenvolvimento de sistemas - Centro Universitário Estácio Juiz de Fora.
@@ -17,8 +20,8 @@ Descobri minha paixão pela tecnologia a 2 anos, atualmente sou estágiaria em u
 constantemente me atualizo sobre novas linguagens do mercado tecnológico, me atualizando em cursos de linguagens que já estudei/trabalho.
  
 Sou atleta desde os 15 anos de idade,sempre pratiquei esportes coletivos, logo os esportes me ensinaram a ter boa comunicação e saber exercer o trabalho em equipe.
-``` 
-```
+
+##
 My name is Lauriane Almeida but people refer to me as "Lauri", I am 27 years old. 
  
 I'm undergraduate in systems development analysis at Estácio Juiz de Fora University Center.
@@ -27,7 +30,7 @@ I discovered my passion for technology 2 years ago, currently I'm a trainee in a
 I constantly update myself about new languages in the technology market, updating myself in language courses that I have already studied/worked in.
  
 I have been an athlete since I was 15 years old, I have always practiced team sports, so sports have taught me to have good communication skills and to know how to work in a team.
-```
+
 ##
 
 - Technologies and Tools: 
@@ -63,5 +66,7 @@ I have been an athlete since I was 15 years old, I have always practiced team sp
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
         
+ 
  <a href="https://github.com/Laurysialm">
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laurysialm&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurysialm&layout=compact&langs_count=7&theme=nord"/>
